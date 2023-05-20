@@ -1,0 +1,27 @@
+{
+  "name": "MMM-UnifiNetwork",
+  "version": "0.0.2",
+  "description": "Statistics from the Unifi Network Application",
+  "main": "MMM-UnifiNetwork.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuttersrest/MMM-UnifiNetwork.git"
+  },
+  "keywords": [
+    "Magic",
+    "Mirror",
+    "Module"
+  ],
+  "author": "JA",
+  "license": "JA",
+  "bugs": {
+    "url": "https://github.com/nuttersrest/MMM-UnifiNetwork/issues"
+  },
+  "homepage": "https://github.com/nwootton/MMM-UnifiNetwork#readme",
+  "dependencies": {
+    "node-unifi":""
+  }
+}

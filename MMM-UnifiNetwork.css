@@ -1,0 +1,21 @@
+.MMM-UnifiNetwork .site {
+  text-align: left;
+}
+.MMM-UnifiNetwork .tableheader{
+text-align: center;
+}
+.MMM-UnifiNetwork .tablecontent{
+text-align: center;
+}
+.MMM-UnifiNetwork .green {
+  color: green;
+}
+.MMM-UnifiNetwork .orange {
+  color: orange;
+}
+.MMM-UnifiNetwork .red {
+  color:red;
+}
+.MMM-UnifiNetwork header {
+ 	text-align: left;
+}
