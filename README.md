@@ -3,5 +3,6 @@ MagicMirror module that displays various statistics from your Unifi Network Appl
 
 # Install
 cd <Your MagicMirror Directory>/modules
+  
 git clone https://github.com/nuttersrest/MMM-UnifiNetwork.git
   
